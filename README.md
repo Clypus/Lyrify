@@ -26,3 +26,7 @@ Feel free to fork the repository, make changes, and submit pull requests. Contri
 
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+![Lyrify Screenshot](assets/screenshot.png)
