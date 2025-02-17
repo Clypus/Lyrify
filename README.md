@@ -23,6 +23,10 @@ To use the YouTube Music integration for downloading MP3 and LRC files, you need
 2. Load an LRC file.
 3. Enjoy the lyrics displayed on your desktop.
 
+### Important Notes:
+- The integration does **not** support YouTube links containing `&list` in the URL (e.g., playlist links). Make sure to use direct video URLs for downloads.
+- Without FFmpeg, the YouTube Music integration will not work.
+  
 ## Disclaimer:
 This application is a tool for displaying song lyrics only and does not include any music copyright content. It does not play audio, only synchronizes and displays the lyrics. Please use music content in accordance with copyright laws.
 
