@@ -7,6 +7,17 @@ Lyrify is an application that displays song lyrics as a dynamic wallpaper on you
 - Synchronize lyrics with music using LRC files
 - Smooth transitions of lyrics across the screen
 
+## ⚠️ Warning: YTMusic Integration
+
+To use the YouTube Music integration for downloading MP3 and LRC files, you need to have **FFmpeg** installed on your system. 
+
+### How to Install FFmpeg:
+1. Open **PowerShell**.
+2. Run the following command:
+   ```bash
+   winget install ffmpeg
+   ```
+
 ## Usage:
 1. Download and run the application.
 2. Load an LRC file.
@@ -17,6 +28,7 @@ This application is a tool for displaying song lyrics only and does not include 
 
 ## Installation:
 To install Lyrify:
+1
 1. Download the latest release from the [Releases](https://github.com/Clypus/Lyrify/releases) page.
 2. Extract the files to a folder of your choice.
 3. Run the `Lyrify.exe` (or the corresponding executable for your platform).
