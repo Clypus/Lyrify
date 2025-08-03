@@ -41,7 +41,7 @@ To install Lyrify:
 Feel free to fork the repository, make changes, and submit pull requests. Contributions are always welcome!
 
 ## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL License - see the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
 
